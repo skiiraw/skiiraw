@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate student, constantly learning and 
 
 Here are a few tools and technologies I’ve been working with recently:
 
-- Programming Languages: `JavaScript`, `Python`, `C++`, `Rust`
+- Programming Languages: `JavaScript`, `Python`, `C++`, `LUA`
 - Frameworks: `React.js`, `Node.js`, `Django`
 - Tools: `Git`, `Docker`, `Postman`
 - Databases: `PostgreSQL`, `MongoDB`
