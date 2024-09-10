@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate student, constantly learning and 
 - 🔭 I’m currently working on a website, app and games.
 - 🌱 I’m learning CentOS, Python, UI/UX, Graphic Design
 - 📫 How to reach me: aisyah.pramaulana@gmail.com
-- 
+  
 ## 🛠️ Technologies & Tools
 
 Here are a few tools and technologies I’ve been working with recently:
